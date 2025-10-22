@@ -1,2 +1,2 @@
 # CopilotCustomInstructions
-Där jag sparar mina github-instructions
+Här sparar jag mina custom instructions
